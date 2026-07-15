@@ -29,11 +29,10 @@ Apasionado por el desarrollo de software y la inteligencia artificial aplicada. 
 - 🔗 APIs REST
 
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deve-Lopez&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deve-Lopez&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Deve-Lopez&theme=github-dark&hide_border=true" />
 </p>
 
 
