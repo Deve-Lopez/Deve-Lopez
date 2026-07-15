@@ -1,6 +1,8 @@
 # 👋 Hola, soy Daniel López
 
-💻 Full Stack Developer | AI Integration & Local LLMs
+![](https://komarev.com/ghpvc/?username=Deve-Lopez&label=Profile%20Views&color=0e75b6&style=flat)
+
+💻 Full Stack Developer | Integración de IA y LLMs Locales
 
 Apasionado por el desarrollo de software y la inteligencia artificial aplicada. Desarrollo aplicaciones Full Stack que integran modelos de lenguaje locales (LLMs), APIs REST y arquitecturas modernas para crear soluciones inteligentes y automatizar procesos mediante IA.
 
