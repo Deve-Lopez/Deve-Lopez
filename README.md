@@ -29,25 +29,64 @@ Apasionado por el desarrollo de software y la inteligencia artificial aplicada. 
 - 🔗 APIs REST
 
 
-## 🔥 Contribution Streak
+## 📈 Actividad en GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Deve-Lopez&theme=github-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deve-Lopez&theme=github-dark&hide_border=true" />
+</p>
+
 
 ## 🚀 Proyectos
 
-### 🤖 LopezDevChat
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [LopezDevChat](https://github.com/Deve-Lopez/LopezDevChat)
+
 Aplicación conversacional desarrollada para integrar modelos de lenguaje locales mediante Ollama, explorando arquitecturas de IA aplicadas a soluciones Full Stack.
 
-### 🌐 Vision3D
+</td>
+
+<td width="50%">
+
+### 🌐 [VISION3D](https://github.com/Deve-Lopez/VISION3D)
+
 Visualizador 3D desarrollado con React y Three.js, diseñado como plataforma para futuras funcionalidades basadas en IA, análisis de modelos y automatización.
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 ### 🖨️ 3DPrint Ecommerce
-Ecommerce Full Stack desarrollado con React, PHP y MySQL, incluyendo autenticación, panel de administración y API REST propia.
+
+Ecommerce Full Stack desarrollado con React, PHP y MySQL, compuesto por un frontend desacoplado, una API REST y un panel de administración para la gestión del catálogo y usuarios.
+
+🔗 **Repositorios:**
+- [Frontend](https://github.com/Deve-Lopez/ecommerce-3dprint-frontend)
+- [Backend](https://github.com/Deve-Lopez/ecommerce-3dprint-backend)
+
+</td>
+</tr>
+</table>
 
 
 ## 🎯 Actualmente
 
 Estoy profundizando en la integración de modelos de lenguaje locales dentro de aplicaciones reales, explorando arquitecturas de IA, automatización y asistentes inteligentes ejecutados íntegramente en entornos locales.
+
+"Creo que la Inteligencia Artificial no sustituye al desarrollo de software; amplía las posibilidades de crear aplicaciones más inteligentes, útiles y accesibles."
+
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lopezsantajustinadaniel/
+- 📧 **Email:** lopezsantajustinadaniel@gmail.com
