@@ -41,6 +41,4 @@ Ecommerce Full Stack desarrollado con React, PHP y MySQL, incluyendo autenticaci
 
 ## 🎯 Actualmente
 
-## 🎯 Actualmente
-
 Estoy profundizando en la integración de modelos de lenguaje locales dentro de aplicaciones reales, explorando arquitecturas de IA, automatización y asistentes inteligentes ejecutados íntegramente en entornos locales.
