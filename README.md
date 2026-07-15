@@ -18,15 +18,15 @@ Apasionado por el desarrollo de software y la inteligencia artificial aplicada. 
 
 ## 💻 Tecnologías y herramientas
 
-- React
-- JavaScript
-- PHP
-- SQL (MySQL)
-- .NET MAUI
-- C#
-- Git & GitHub
-- Ollama
-- Three.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,php,mysql,dotnet,cs,git,github,vscode&theme=dark" />
+</p>
+
+### También trabajo con
+
+- 🤖 Ollama (LLMs locales)
+- 🌐 Three.js
+- 🔗 APIs REST
 
 
 ## 🚀 Proyectos
